@@ -1,0 +1,5 @@
+classes=1
+train=[PATH]
+valid=[PATH]
+names=data/raccoon.names
+backup=backup/
